@@ -189,7 +189,7 @@ class select:
         while 1:
             try:
                 num += 1
-                now = datetime.datetime.now()  # 感谢群里大佬提供整点代码
+                now = datetime.datetime.now()  
                 configCommon.checkSleepTime(self)   # 晚上到点休眠
                 if self.order_model is 1:
                     sleep_time_s = 0.5

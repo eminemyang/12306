@@ -88,8 +88,8 @@ set:
 
   # 12306登录账号(list)
   12306account:
-    - user: "107985345@qq.com"
-    - pwd: "yp2662827"
+    - user: "1079853450@qq.com"
+    - pwd: "666"
 
 # 加入小黑屋时间，此功能为了防止僵尸票导致一直下单不成功错过正常的票
 ticket_black_list_time: 5
@@ -123,7 +123,7 @@ email_conf:
   email: "1079853450@qq.com "
   notice_email_list: "1079853450@qq.com"
   username: "1079853450"
-  password: "yp_2662827"
+  password: "666"
   host: "smtp.qq.com"
 
 # 是否开启cdn查询，可以更快的检测票票 1为开启，2为关闭
